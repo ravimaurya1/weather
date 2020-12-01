@@ -1,4 +1,4 @@
-Link to working Project-https://weather-ravi.herokuapp.com/
+Link to working Project-http://weather-ravi.herokuapp.com/
 
 # Getting Started with Create React App
 
